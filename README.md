@@ -1,1 +1,1 @@
-# visualize-how-embeddings-work-test
+# Visualize How Embeddings Work
